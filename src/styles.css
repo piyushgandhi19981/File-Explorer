@@ -1,0 +1,19 @@
+.folder-detail {
+  margin-top: 5px;
+  background: lightgray;
+  width: 400px;
+  padding: 3px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.addEntity {
+  display: flex;
+}
+
+.actions {
+  display: flex;
+  justify-content: flex-end;
+  margin-left: auto;
+}
